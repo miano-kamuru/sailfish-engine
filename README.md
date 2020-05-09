@@ -1,5 +1,4 @@
-# sailfish-engine
-creates simple database applications without coding. work in progress...
+#Screenshots
 
 ![1](https://user-images.githubusercontent.com/63651644/79258130-5d5eaf00-7e93-11ea-97e5-a0a6b1066176.jpg)
 ![2](https://user-images.githubusercontent.com/63651644/79258146-62bbf980-7e93-11ea-85bd-adf9ce79397d.jpg)
