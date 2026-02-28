@@ -1,4 +1,5 @@
-creates simple database apps without coding.
+creates simple database apps without coding. 
+made with [python sqlalchemly PyQt javascript and qml]
 # **Screenshots**
 work in progress :)
 
