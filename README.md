@@ -1,3 +1,4 @@
+creates simple database apps without coding.
 # **Screenshots**
 work in progress :)
 
