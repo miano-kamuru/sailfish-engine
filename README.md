@@ -1,5 +1,5 @@
 My final year diploma project, Creates simple database apps without coding. 
-made with [python sqlalchemly PyQt javascript and qml]
+made with python sqlalchemly PyQt javascript and qml
 # **Screenshots**
 work in progress :)
 
