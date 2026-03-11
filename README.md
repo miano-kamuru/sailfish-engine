@@ -1,5 +1,4 @@
-My final year diploma project, Creates simple database apps without coding. 
-made with python sqlalchemly PyQt javascript and qml
+Sailfish Engine is my final year diploma project. It allows users to create simple database applications without writing any code. The project is built using Python, SQLAlchemy, PyQt, JavaScript, and QML.
 # **Screenshots**
 work in progress :)
 
